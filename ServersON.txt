@@ -1,0 +1,9 @@
+JOGO: CS1.6
+IP: 192.56.63.10523
+CUSTOM IP: vgoficial.founderplay.pt
+JOGO: L4D2
+IP: 192.56.63.16611
+CUSTOM IP: 3.founderplay.pt
+JOGO: L4D2
+IP: 192.56.63.30420
+CUSTOM IP: 3.founderplay.pt
